@@ -56,7 +56,7 @@ sudo apt install -y nodejs
 
 ### 📂 Запуск проекта
 
-1. **Распакуйте архив** `ttm-hackathon(with_ico).tar.gz`  
+1. **Распакуйте архив** `ttm-hackathon(with_ico).tar.gz`  (запасной ttm-hackathon.tar.gz)
 2. **Перейдите в папку проекта**  
    ```bash
    cd ttm-hackathon
