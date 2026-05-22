@@ -154,3 +154,16 @@ docker exec -it ollama ollama pull llama3.2:3b
 
 ---
 
+## 🖼️ Скриншоты из проекта 
+<img width="1322" height="806" alt="image" src="https://github.com/user-attachments/assets/438df547-3476-4cb2-ab8a-14d89198e511" />
+
+
+<img width="460" height="669" alt="image" src="https://github.com/user-attachments/assets/30890969-c53b-4947-9a43-ccc9c7c868c3" />
+
+<img width="1337" height="457" alt="image" src="https://github.com/user-attachments/assets/baa43d20-ccc6-45e8-bed2-c4292957f1be" />
+
+# На стадии улучшения (в проекте нет)
+
+<img width="1310" height="450" alt="image_2026-05-22_00-59-46" src="https://github.com/user-attachments/assets/9bcf9454-b1ca-4724-bf15-43e8c6d94c2d" />
+
+<img width="576" height="197" alt="image_2026-05-22_00-59-46 (2)" src="https://github.com/user-attachments/assets/0098ca1b-c5e4-47b7-b2f4-f15b143fce3e" />
