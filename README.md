@@ -1,6 +1,8 @@
-для запуска разорхивировать 
+для запуска разорхивировать  ttm-hackathon(with_ico).tar.gz
 
 cd ttm-hackathon
+
+
 docker-compose up -d --build
 
 docker exec -it ollama ollama pull llama3.2:3b
