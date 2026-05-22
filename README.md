@@ -2,6 +2,11 @@
 
 cd ttm-hackathon
 
+если будут какие то ошибки по ходу:
+
+docker-compose down -v (остановит и удалит контейнер)
+
+
 
 docker-compose up -d --build
 
